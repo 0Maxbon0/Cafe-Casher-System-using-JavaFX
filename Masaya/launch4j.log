@@ -1,0 +1,38 @@
+
+
+Version:	3.50
+CmdLine:	D:\Masaya\Masaya.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Masaya\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.022.000
+Java max ver:	
+JRE paths:	jar
+Check launcher:	D:\Masaya\jar\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\18.0.2.1
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (Ignore)
+Ignore:		1.018.000_002
+Check:		SOFTWARE\JavaSoft\JDK\19.0.2
+Version string: 1.019.000_002 / 64-Bit (Ignore)
+Ignore:		1.019.000_002
+Check:		SOFTWARE\JavaSoft\JDK\21
+Version string: 1.021.000 / 64-Bit (Ignore)
+Ignore:		1.021.000
+Check:		SOFTWARE\JavaSoft\JDK\22.0.1
+Version string: 1.022.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Match:		1.022.000_001
+Runtime used:	1.022.000_001 (64-bit)
+Main class:	com.example.kahwa.FakeMain
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-classpath "D:\Masaya\Masaya.exe" com.example.kahwa.FakeMain
+Args length:	60/32768 chars
+Exit code:	0

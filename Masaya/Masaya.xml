@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Kahwa\Kahwa.jar</jar>
+  <outfile>D:\Masaya\Masaya.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\Kahwa\coffee-shop.ico</icon>
+  <classPath>
+    <mainClass>com.example.kahwa.FakeMain</mainClass>
+  </classPath>
+  <jre>
+    <path>jar</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>22</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
