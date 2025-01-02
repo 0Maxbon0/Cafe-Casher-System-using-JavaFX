@@ -9,6 +9,10 @@ The "Cafe Cashier System" is a JavaFX-based desktop application designed to stre
 - **Inventory Management:** Keep track of stock and notify for low inventory levels.
 - **Reports:** Generate daily, weekly, or monthly sales reports.
 - **Responsive Design:** Clean and interactive JavaFX interface for seamless usability.
+!(Finance.png)
+![Home page](Home.png)
+![Home page](Home.png)
+![Home page](Home.png)
 
 **Technologies Used:**
 - **Programming Language:** Java
