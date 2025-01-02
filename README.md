@@ -2,6 +2,7 @@
 
 **Project Description:**
 The "Cafe Cashier System" is a JavaFX-based desktop application designed to streamline the order and billing process for cafes. The system offers a user-friendly interface, efficient order management, and robust reporting capabilities.
+![Login.png](Login.png)
 ![Home page](Home.png)
 **Key Features:**
 - **Order Management:** Add, update, and process orders with ease.
@@ -9,10 +10,10 @@ The "Cafe Cashier System" is a JavaFX-based desktop application designed to stre
 - **Inventory Management:** Keep track of stock and notify for low inventory levels.
 - **Reports:** Generate daily, weekly, or monthly sales reports.
 - **Responsive Design:** Clean and interactive JavaFX interface for seamless usability.
-!(Finance.png)
-![Home page](Home.png)
-![Home page](Home.png)
-![Home page](Home.png)
+![Finance.png](Finance.png)
+![Employees.png](Employees.png)
+![Mangment.png](Mangment.png)
+![Orders.png](Orders.png)
 
 **Technologies Used:**
 - **Programming Language:** Java
